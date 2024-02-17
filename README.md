@@ -1,4 +1,4 @@
-![image](https://github.com/Txpxt-xuto/Txpxt-xuto/blob/main/header.png?raw=true)
+![image](blob:https://imgur.com/2c1525c1-98c1-4eee-80bc-1b51b532e8ba)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tapat Toungsakul
 ========================================================================================================================================
 

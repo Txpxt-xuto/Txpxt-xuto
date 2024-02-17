@@ -1,4 +1,4 @@
-![image]([https://imgur.com/a/U5XYg59.jpg](https://i.imgur.com/CguNKzl.png))
+![image](https://i.imgur.com/CguNKzl.png)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tapat Toungsakul
 ========================================================================================================================================
 

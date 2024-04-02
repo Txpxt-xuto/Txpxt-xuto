@@ -9,8 +9,8 @@ I've been learning C and C++ for 5 years. Now interested in studying programming
 
 * 🌍  I'm based in Samutsakhon in Thailand
 * ✉️  You can contact me at [toungsakul2@gmail.com](mailto:toungsakul2@gmail.com)
-* 🧠  I'm learning Algorithm used for solving problems
-* ✍🏻  Join my website [click](http://127.0.0.1:5500/Mywebsite/main.html)
+* 🧠  Join my website [click](http://127.0.0.1:5500/Mywebsite/main.html)
+* ✍🏻  I'm learning Algorithm used for solving problems
 
 
 ### Skills

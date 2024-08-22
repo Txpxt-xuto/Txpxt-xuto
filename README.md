@@ -9,7 +9,7 @@ Student
 I've been learning C and C++ for 5 years. Now interested in studying programming to solve problems, for example TOI, ICPC, NERC and others.
 
 * 🌍  I'm based in Samutsakhon in Thailand
-* ✉️  You can contact me at [toungsakul2@gmail.com](mailto:toungsakul2@gmail.com)
+* ✉️  You can contact me at [toungsakul2@gmail.com](mailto:tapatauto9898@gmail.com)
 * 🧠  Join my website [click](https://txpxt-xuto.github.io/)
 
 
